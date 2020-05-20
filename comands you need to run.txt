@@ -1,0 +1,15 @@
+delete bin and obj folders.
+
+Search Package manager console
+
+=====================================
+
+  Package manager commands  (PM>)
+
+=====================================
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+Add-Migration InitialCreate
+
+Update-Database
